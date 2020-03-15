@@ -12,7 +12,7 @@ Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
 Wind Speed (mph) vs. Latitude
 
-Next, I run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
+Next, I run linear regressions on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 Northern Hemisphere - Temperature (F) vs. Latitude
 Southern Hemisphere - Temperature (F) vs. Latitude
@@ -23,7 +23,7 @@ Southern Hemisphere - Cloudiness (%) vs. Latitude
 Northern Hemisphere - Wind Speed (mph) vs. Latitude
 Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-In conclusion, I include a written description of three observable trends based on the data.
+In conclusion, I include observable trends based on the data.
 
 VacationPy: 
 In this example, I work with weather data to plan future vacations. 
